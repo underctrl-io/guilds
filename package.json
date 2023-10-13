@@ -9,13 +9,13 @@
         "require": "./dist/index.js"
     },
     "dependencies": {
-        "@types/ws": "^8.5.7",
         "axios": "^1.5.1",
         "events": "^3.3.0",
         "ws": "^8.14.2"
     },
     "devDependencies": {
         "tsup": "^7.2.0",
-        "typescript": "^5.2.2"
+        "typescript": "^5.2.2",
+        "@types/ws": "^8.5.7"
     }
 }
