@@ -9,6 +9,7 @@
         "require": "./dist/index.js"
     },
     "dependencies": {
+        "@types/ws": "^8.5.7",
         "axios": "^1.5.1",
         "events": "^3.3.0",
         "ws": "^8.14.2"
