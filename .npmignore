@@ -1,6 +1,6 @@
 # folders
 node_modules/
-dist/
+src/
 
 # files
 pnpm-lock.yaml
